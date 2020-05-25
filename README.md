@@ -260,13 +260,3 @@ const store = new Vuex.Store({
 });
 ```
 
-## 后记
-
-项目地址: [github](https://github.com/chenchangyuan/shopping) 
-如果对你有所帮助，请start
-
-笔者个人微信 `gm4118679254` 欢迎加好友，一起沟通交流
-
-## 参考资料
-[Vue.js实战](https://item.jd.com/12215519.html 'Vue.js实战')
-[Vue.js](https://cn.vuejs.org/ 'Vue.js')
