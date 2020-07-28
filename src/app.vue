@@ -17,7 +17,7 @@
                 <div class="header-menu">
                     <router-link to="/login/logout"
                                  class="header-menu-cart">
-                        退出登录
+                        退出
                     </router-link>
                 </div>
             </div>
