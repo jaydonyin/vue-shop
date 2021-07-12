@@ -1,10 +1,6 @@
 # Vue实现电商网站项目
 `vue` + `vue-router` + `vuex`实现电商网站
 
-## 效果展示
-
-![](https://user-gold-cdn.xitu.io/2019/3/18/16990d6fd5380b63?w=991&h=606&f=gif&s=709516)
-
 ## install
 + 下载代码: `https://github.com/jaydonyin/vue-shop.git`
 + 安装依赖: `npm install`
