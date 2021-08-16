@@ -7,6 +7,9 @@
 + 启动项目: `npm run dev`
 + 打开网址: `http://localhost:8080`
 
+![image](https://user-images.githubusercontent.com/54665062/129587241-0799b5cf-f1af-49ad-bf73-75208bc9860c.png)
+
+
 ## 需求分析
 1. 登录页面、商品列表页（网站首页）、购物车页（实现结算）、商品详情页
 2. 可按颜色、品牌对商品进行筛选，单击选中，再次点击取消
