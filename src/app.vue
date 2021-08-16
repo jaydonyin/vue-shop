@@ -3,7 +3,7 @@
         <template v-if="show">
             <div class="header">
                 <router-link to="/list"
-                             class="header-title">耳机网</router-link>
+                             class="header-title">EASY耳机网</router-link>
                 <div class="header-menu">
                     <router-link to="/cart"
                                  class="header-menu-cart">

@@ -5,14 +5,16 @@
                 <span>品牌:</span>
                 <span class="list-control-filter-item"
                       :class="{on: item === filterBrand}"
-                      v-for="item in brands"
+                      v-for="(item, index) in brands"
+                      :key="index"
                       @click="handleFilterBrand(item)">{{item}}</span>
             </div>
             <div class="list-control-filter">
                 <span>颜色:</span>
                 <span class="list-control-filter-item"
                       :class="{on: item === filterColor}"
-                      v-for="item in colors"
+                      v-for="(item, index) in colors"
+                      :key="index"
                       @click="handleFilterColor(item)">{{item}}</span>
             </div>
 

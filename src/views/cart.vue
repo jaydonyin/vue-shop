@@ -12,7 +12,7 @@
         </div>
         <div class="cart-content">
             <!-- 列表显示购物清单 -->
-            <div class="cart-content-main" v-for="(item, index) in cartList">
+            <div class="cart-content-main" v-for="(item, index) in cartList" :key="index">
                 <div class="cart-info">
                     <img :src="productDictList[item.id].image">
                     <span>{{productDictList[item.id].name}}</span>
