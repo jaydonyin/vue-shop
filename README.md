@@ -5,6 +5,7 @@
 + 下载代码: `https://github.com/jaydonyin/vue-shop.git`
 + 安装依赖: `npm install`
 + 启动项目: `npm run dev`
++ 打开网址: `http://localhost:8080/list`
 > 运行环境: [node v9.11.1](https://nodejs.org/zh-cn/download/ 'Node.js') *npm 5.6.0*
 
 ## 需求分析
