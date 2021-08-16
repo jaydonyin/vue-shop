@@ -1,11 +1,12 @@
 # Vue实现电商网站项目
-`vue` + `vue-router` + `vuex`实现电商网站
+`vue` + `vue-router` + `vuex`实现电商网站，面向Vue新手，欢迎star支持
 
 ## install
 + 下载代码: `https://github.com/jaydonyin/easy-vue-shop.git`
 + 安装依赖: `npm install`
 + 启动项目: `npm run dev`
 + 打开网址: `http://localhost:8080`
+> 预览图片：
 
 ![image](https://user-images.githubusercontent.com/54665062/129587241-0799b5cf-f1af-49ad-bf73-75208bc9860c.png)
 
